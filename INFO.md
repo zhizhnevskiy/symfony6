@@ -5,7 +5,7 @@
 # Start watch and build tailwindcss
 - npx tailwindcss -i ./assets/styles/app.css -o ./public/build/app.css --watch
 
-# Before command use 'symfony console' or 'php bin/console'
+# Before command use 'symfony console' or 'php bin/console'!
 
 # Require twig
 - composer require "twig/twig:^2.0"
